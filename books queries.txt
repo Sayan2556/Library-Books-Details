@@ -1,0 +1,62 @@
+.......................               Find books Objects/Documents             ..........................
+> db.books.find().pretty()
+{
+        "_id" : ObjectId("63160f8e92871265820bcae0"),
+        "Book_Name" : "Advanced java",
+        "pages" : 512,
+        "Ref_no" : 1
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae1"),
+        "Book_Name" : "Java Tutorial",
+        "pages" : 432,
+        "Ref_no" : 2
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae2"),
+        "Book_Name" : "Python Basic Fundamentals",
+        "pages" : 236,
+        "Ref_no" : 3
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae3"),
+        "Book_Name" : "Advanced Python",
+        "pages" : 456,
+        "Ref_no" : 4
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae4"),
+        "Book_Name" : "Networking Concept",
+        "pages" : 512,
+        "Ref_no" : 5
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae5"),
+        "Book_Name" : "Logical Gates and algorithm",
+        "pages" : 110,
+        "Ref_no" : 6
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae6"),
+        "Book_Name" : "Advanced Netwroking concept",
+        "pages" : 221,
+        "Ref_no" : 7
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae7"),
+        "Book_Name" : "Advanced SQL Server",
+        "pages" : 512,
+        "Ref_no" : 8
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae8"),
+        "Book_Name" : "SQL Language and RDBMS Concept",
+        "pages" : 1106,
+        "Ref_no" : 9
+}
+{
+        "_id" : ObjectId("63160f8e92871265820bcae9"),
+        "Book_Name" : "Learning with MongoDb",
+        "pages" : 115,
+        "Ref_no" : 10
+}

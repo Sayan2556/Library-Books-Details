@@ -1,0 +1,17 @@
+------------            Insertion of MUltiple objects inside authors collection                 ----------------          
+
+
+> db.authors.insertMany([
+    {Author_Name:'Michale Lex'}, 
+ {Author_Name:'larvel nolanco'},
+ {Author_Name:'Md Abbur Al Zameel'},
+ {Author_Name:'Leonardo Lexen'},
+ {Author_Name:'albert william'}, 
+ {Author_Name:'Mike Tobie'},
+ {Author_Name:'Avvy Tobie'},
+ {Author_Name:'Annie Thomas'}, 
+ {Author_Name:'Tushar kr Agarwal'}, 
+ {Author_Name:'Sandhya Malakar'}
+ ])
+
+ 

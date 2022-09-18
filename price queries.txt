@@ -1,0 +1,63 @@
+.......................               Find Price Objects/Documents             ..........................
+db.Price.find().pretty()
+{
+        "_id" : ObjectId("63161d4892871265820bcaf4"),
+        "Book_Name" : "Advanced java",
+        "Ref_no" : 1,
+        "Price_in_Rs" : 1800
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcaf5"),
+        "Book_Name" : "Java Tutorial",
+        "Ref_no" : 2,
+        "Price_in_Rs" : 1100
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcaf6"),
+        "BookNname" : "Python Basic Fundametals",
+        "Ref_no" : 3,
+        "Price_in_Rs" : 865
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcaf7"),
+        "BookNname" : "Advanced Python",
+        "Ref_no" : 4,
+        "Price_in_Rs" : 1005
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcaf8"),
+        "Book_Name" : "Networking Concept",
+        "Ref_no" : 5,
+        "Price_in_Rs" : 865
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcaf9"),
+        "Book_Name" : "Logical Gates and Algorithm",
+        "Ref_no" : 6,
+        "Price_in_Rs" : 432
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcafa"),
+        "Book_Name" : "Advanced Netwrking Concepts",
+        "Ref_no" : 7,
+        "Price_in_Rs" : 232
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcafb"),
+        "Book_Name" : "Advanced SQL Server",
+        "Ref_no" : 8,
+        "Price_in_Rs" : 544
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcafc"),
+        "Book_Name" : "SQL Language and RDBMS Concept",
+        "Ref_no" : 9,
+        "Price_in_Rs" : 1124
+}
+{
+        "_id" : ObjectId("63161d4892871265820bcafd"),
+        "Book_Name" : "Learning With mongoDb",
+        "Ref_no" : 8,
+        "Price_in_Rs" : 354
+}
+

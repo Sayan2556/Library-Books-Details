@@ -1,0 +1,30 @@
+------------                  Create Database and Collections(books)                     ---------------
+ show dbs
+admin      0.000GB
+config     0.000GB
+librarydb  0.000GB <------   Database Creation
+local      0.000GB
+myblog     0.000GB
+sayan      0.000GB
+schooldb   0.000GB
+> use librarydb
+switched to db librarydb
+> show collections
+books
+
+-------------            Insertion of MUltiple objects inside Books collection      ------------
+
+> db.books.insertMany([{Book Name: 'Advanced java',pages:512,Ref no:001},
+... {Book Name: 'Java Tutorial',pages:432,Ref no:002},
+... {Book Name: 'Python Basic Fundamentals',pages:236,Ref no:003},
+... {Book Name: 'Advanced Python',pages:456,Ref no:004},
+... {Book Name: 'Networking Concept',pages:512,Ref no:005},
+... {Book Name: 'Logical Gates and algorithm',pages:110,Ref no:006},
+... {Book Name: 'Advanced Netwroking concept',pages:221,Ref no:007},
+... {Book Name: 'Advanced SQL Server',pages:512,Ref no:008},
+... {Book Name: 'SQL Language and RDBMS Concept',pages:1106,Ref no:009},
+... {Book Name: 'Learning with MongoDb',pages:115,Ref no:010}])
+
+
+
+

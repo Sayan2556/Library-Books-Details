@@ -1,0 +1,43 @@
+.......................               Find authors Objects/Documents             ..........................
+
+db.authors.find().pretty()
+{
+        "_id" : ObjectId("6316170b92871265820bcaea"),
+        "Author_Name" : "Michale Lex"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaeb"),
+        "Author_Name" : "larvel nolanco"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaec"),
+        "Author_Name" : "Md Abbur Al Zameel"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaed"),
+        "Author_Name" : "Leonardo Lexen"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaee"),
+        "Author_Name" : "albert william"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaef"),
+        "Author_Name" : "Mike Tobie"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaf0"),
+        "Author_Name" : "Avvy Tobie"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaf1"),
+        "Author_Name" : "Annie Thomas"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaf2"),
+        "Author_Name" : "Tushar kr Agarwal"
+}
+{
+        "_id" : ObjectId("6316170b92871265820bcaf3"),
+        "Author_Name" : "Sandhya Malakar"
+}
